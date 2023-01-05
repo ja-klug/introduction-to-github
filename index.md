@@ -10,3 +10,9 @@
 $ git init
 Initialzed empty Git repository in {user.path}
 ```
+
+### Task List Example
+
+- [x] A
+- [ ] B
+- [X] C
